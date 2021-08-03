@@ -1,0 +1,2 @@
+rootProject.name = "DrawerActivity1"
+include ':app'
