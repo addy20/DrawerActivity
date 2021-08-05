@@ -2,4 +2,5 @@
     <string name="app_name">DrawerActivity1</string>
     <string name="open">open</string>
     <string name="close">close</string>
+    <string name="hello_user">Hello User</string>
 </resources>
